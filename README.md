@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I am Mohammed
+A Mobile and web developer building real-world apps with clean UI and structured architecture.
 
-<!--
-**Mohammed7th/mohammed7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on building mobile and web applications and expanding my skills — currently leveling up in React and Next.js with TypeScript.
+
+---
+
+## Tools I use
+
+- **Flutter / Dart** — mobile UI and app architecture  
+- **React / Next.js / TypeScript** — web development & in progress  
+- **Firebase** — auth, Firestore, real-time data  
+- **VS Code** — primary editor  
+- **Git / GitHub** — version control and collaboration  
+
+---
+
+## Reach me
+
+- Email: hamza.lord5164@gmail.com  
+- GitHub: [@Mohammed7th](https://github.com/Mohammed7th)
