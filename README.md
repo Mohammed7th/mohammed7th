@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Mohammed
 
-### Mobile & Web Developer — building real-world apps with clean UI and structured architecture
+### Mobile & Web Developer building real-world apps with clean UI and structured architecture
 
 <a href="https://github.com/Mohammed7th">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer;Learning+React+%26+Next.js+with+TypeScript;Exploring+Node.js+%26+Express;Clean+UI+%E2%80%A2+Structured+Architecture" alt="Typing intro" />
@@ -93,12 +93,16 @@
 
 <img src="https://streak-stats.demolab.com?user=Mohammed7th&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed7th&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7&card_width=400" width="600" alt="Top languages" />
+
 </div>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for stopping by — feel free to check out my repositories!
+⭐ Thanks for stopping by! Feel free to check out my repositories!
 
 </div>
